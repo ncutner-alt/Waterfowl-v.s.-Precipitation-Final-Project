@@ -1,0 +1,14 @@
+---
+title: "paper"
+author: "Nina Cutner, Kelsey Hammond, Sofia Favela"
+format: pdf
+---
+
+# Introduction
+
+# Methods
+
+# Results
+
+# Discussion
+
