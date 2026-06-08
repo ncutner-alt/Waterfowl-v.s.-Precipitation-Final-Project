@@ -4,6 +4,7 @@ author: "Nina Cutner, Kelsey Hammond, Sofia Favela"
 format: pdf
 date: June 7, 2026
 execute:
+  echo: false
   warning: false
   message: false
 ---
