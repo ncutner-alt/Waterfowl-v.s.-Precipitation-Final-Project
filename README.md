@@ -12,21 +12,6 @@ Are there seasonal patterns in waterfowl abundance and precipitation at NCOS?
 
 ## Data and File Information
 
-Waterfowl-v.s.-Precipitation-Final-Project/
-│
-├── data/
-│   ├── birds.csv                  # eBird-style waterfowl survey data collected at NCOS
-│   └── NOAA_daily_summaries.csv   # NOAA daily weather records for the Santa Barbara area
-│
-├── code/
-│   └── analysis.qmd               # Annotated code: data cleaning, wrangling,
-│                                  # statistical analysis, and all four visualizations
-│
-├── paper/
-│   ├── paper.qmd                  # Final paper: Introduction, Methods, Results, Discussion
-│   └── references.bib             # BibTeX reference file for in-text citations
-│
-├── files/
-│   └── timeline_checkin.pdf       # Rendered PDF from timeline check-in submission
-│
-└── README.md
+## Rendered Output
+
+## Related Repositories
