@@ -6,9 +6,37 @@ format: pdf
 
 # Introduction
 
+- context for study established with
+  – relevance to NCOS
+  – relevance to other ecosystems
+- clear connection between ideas presented in contextualization (i.e. main findings from
+other papers are synthesized, not just listed)
+- articulated main question(s) for study
+
 # Methods
+
+- description of temporal and spatial coverage of dataset
+- references to monitoring report or any other NCOS-related publications outlining data
+collection process
+- description of frequency of data collection
+- description of statistical analysis or otherwise descriptive statistics (should be linked to
+question)
 
 # Results
 
+- clear discussion of findings (e.g. what patterns did you identify, trends, etc.)
+- discussion of results should connect to questions and figures
+- figures should be presented in order that tells clear ecological story
+
 # Discussion
+
+- connecting results to NCOS reports or publications
+- connecting results to other ecosystems
+- articulation of challenges to collecting data, including:
+  – what would be difficult about collecting the data you worked with
+  – what other variables would influence the patterns you see in your chosen dataset,
+how those variables are collected, and why those variables are relevant to your
+dataset
+  – temporal changes that may influence patterns in your dataset, and how those
+changes are captured (or not) with the collection of your dataset
 
