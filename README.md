@@ -34,8 +34,8 @@ Waterfowl-v.s.-Precipitation-Final-Project/
 ```
 
 ## Rendered Output
-- [Final Paper (PDF)](files/final_paper.pdf)
-- [Timeline Check-In (PDF)](files/timeline_checkin.pdf)
+- [Final Paper (PDF)]
+- [Timeline Check-In (PDF)]
 
 ## Related Repositories
 - [Project Proposal](https://github.com/sofiafavela/bird-project)
