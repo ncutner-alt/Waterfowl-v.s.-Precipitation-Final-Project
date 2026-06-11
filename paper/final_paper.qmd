@@ -224,12 +224,10 @@ seasonal_summary <- seasonal_by_year |>
 
 # Introduction
 
-- context for study established with
-  – relevance to NCOS
-  – relevance to other ecosystems
-- clear connection between ideas presented in contextualization (i.e. main findings from
-other papers are synthesized, not just listed)
-- articulated main question(s) for study
+Wetlands hold some of the highest concentrations of waterfowl in North America. In our Mediterranean climate, this water is coming almost entirely from winter rain. Precipitation fills wetlands, and often sets habitat and foraging availability for these species. Because of this link, precipitation is oftentimes treated as a basic driver of waterfowl abundance. Literature does not agree with this entirely. Greer et al. (2007 showed that fall flooding can reduce food availability and lower waterfowl survival and reproduction. Other work points the other way, Kahara et al (2021) tied drought to reduced habitat quality and smaller populations. Together these studies are suggesting that the effect of precipitation on waterfowl is real, but inconsistent, and likely encompasses other factors like local hydrology, habitat structure and how a site is managed. 
+
+Our research focuses on waterfowl abundance at North campus Open Space, a restored coastal wetland at the University of California, Santa Barbara which provides habitat for many bird species, including waterfowl, and its water levels are actively monitored as part of ongoing restoration. Across water years, 2020-2025, surveys recorded 19 waterfowl species at the site. We addressed three questions. First, does precipitation affect waterfowl abundance at NCOS? Second, how does waterfowl abundance vary through time at NCOS? Third, are there seasonal patterns shared by waterfowl abundance? Third, are there seasonal patterns shared by waterfowl abundance and precipitation ? We tested whether the previous month’s precipitation predicted total monthly abundance, using a one-month lag to allow time for rainfall to translate into usable habitat. We predicted that higher precipitation in one month would be greater than the abundance of waterfowl for the next.
+
 
 # Methods
 
