@@ -519,13 +519,16 @@ combined_plot
 
 # Discussion
 
-- connecting results to NCOS reports or publications
-- connecting results to other ecosystems
-- articulation of challenges to collecting data, including:
-  – what would be difficult about collecting the data you worked with
-  – what other variables would influence the patterns you see in your chosen dataset,
-how those variables are collected, and why those variables are relevant to your
-dataset
-  – temporal changes that may influence patterns in your dataset, and how those
-changes are captured (or not) with the collection of your dataset
+Our results suggest that precipitation alone did not strongly predict waterfowl abundance at North Campus Open Space (NCOS) from water years 2020-2025. Although it is seen that waterfowl abundance and precipitation follow the same seasonal trends, the direct relationship between previous-month’s precipitation totals and waterfowl abundance was not significant. This result indicates that precipitation may not be the main factor controlling waterfowl abundance at NCOS. However, this does not mean that our findings are not meaningful. It may suggest that local restoration, wetland management, and habitat conditions at NCOS may buffer waterfowl from precipitation-driven fluctuations seen elsewhere.
 
+These results connect to the Bird Community Analysis Report by Karen Stahlheber. This report found that bird patterns at wetland habitats in the UCSB and Goleta area are complex and varying across sites, seasons, and years. The results of their study found that different species of waterfowl preferred different wetland habitats, such as brackish ponds, freshwater marshes, tidal wetlands, and tidal marshes [citation]. This is important for our results because NCOS is a restored wetland system, meaning that habitat structure and the type of wetland habitat available may be just as important as the amount of precipitation. Essentially, waterfowl abundance at NCOS may be more influenced by how precipitation affects wetland conditions than by the precipitation totals alone.
+
+The mixed results that can be found in literature from other ecosystems fits in with our findings. Studies such as Stenzel & Page (2011) found a negative relationship between rainfall and waterbird abundance at a central California estuary, while Kahara et al. (2021) found drought reduces waterfowl habitat quality, implying a positive relationship between precipitation and abundance. Compared to those systems, NCOS may respond differently as it is a restored and partially managed wetland. This could buffer waterfowl from precipitation changes or create habitat conditions that remain usable even when monthly rainfall is low. Rather than contradicting the literature, our null result may validate the inconsistency across studies. The effect of precipitation on waterfowl may depend heavily on local hydrology, habitat structure, and species composition, meaning no universal relationship can be assumed.
+
+Several challenges to data collection may have influenced our results. The first being that bird surveys are difficult to perform. Waterfowl are mobile and may be moving between areas of NCOS. Survey quality may also vary depending on surveyor experience, and climatic conditions. When working with the data, there were some months where surveys did not occur or data was missing. This makes it harder to separate true species absence from limitations in sampling.
+
+Other variables that may influence the patterns seen in this dataset include water depth, wetland area, salinity, vegetation cover, food availability, and temperature. Water variables are collected through gauges, sensors, and YSI EXO1 sondes. Wetland area can be measured through aerial imagery. Vegetation is also measured by the Cheadle Center using transects, quadrat sampling, and individual tree measurements. [citation]. These variables are relevant to our study because precipitation alone doesn’t explain the changes to the actual habitat conditions.
+
+Our study encompasses water years 2020-2025. This study period includes seasonal changes, drought years, wet years, and ongoing restoration projects at NCOS. Waterfowl are also migratory birds which can affect their abundance seasonally. Additionally, our study used a one-month lag for precipitation. A longer lag or current-year total precipitation (like in Stenzel & Page 2011) may reveal relationships not captured here. Temporal changes can be seen in our study. Figures 1, 2, and 4 each show seasonal changes in precipitation and waterfowl abundance. Future research could compare different temporal trends in precipitation to see how the relationship may differ.
+
+Overall, the lack of a significant relationship between the previous month's precipitation and waterfowl abundance suggests that precipitation alone is not a driving factor in waterfowl patterns at North Campus Open Space. Instead, waterfowl abundance is likely influenced by broader seasonal changes and wetland habitat conditions.
