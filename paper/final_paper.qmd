@@ -224,19 +224,23 @@ seasonal_summary <- seasonal_by_year |>
 
 # Introduction
 
-Wetlands hold some of the highest concentrations of waterfowl in North America. In our Mediterranean climate, this water is coming almost entirely from winter rain. Precipitation fills wetlands, and often sets habitat and foraging availability for these species. Because of this link, precipitation is oftentimes treated as a basic driver of waterfowl abundance. Literature does not agree with this entirely. Greer et al. (2007 showed that fall flooding can reduce food availability and lower waterfowl survival and reproduction. Other work points the other way, Kahara et al (2021) tied drought to reduced habitat quality and smaller populations. Together these studies are suggesting that the effect of precipitation on waterfowl is real, but inconsistent, and likely encompasses other factors like local hydrology, habitat structure and how a site is managed. 
+Wetlands hold some of the highest concentrations of waterfowl in North America. In our Mediterranean climate, this water is coming almost entirely from winter rain. Precipitation fills wetlands, and often sets habitat and foraging availability for these species. Because of this link, precipitation is oftentimes treated as a basic driver of waterfowl abundance. Literature does not agree with this entirely. Greer et al. (2007) showed that fall flooding can reduce food availability and lower waterfowl survival and reproduction. Other work points the other way, Kahara et al. (2021) tied drought to reduced habitat quality and smaller populations. Together these studies suggest that the effect of precipitation on waterfowl is real, but inconsistent, and likely encompasses other factors like local hydrology, habitat structure, and how a site is managed. Findings from restored coastal wetlands like NCOS are therefore relevant to the broader management of similar systems throughout California and the Pacific Flyway, where precipitation variability and habitat restoration are ongoing concerns.
 
-Our research focuses on waterfowl abundance at North campus Open Space, a restored coastal wetland at the University of California, Santa Barbara which provides habitat for many bird species, including waterfowl, and its water levels are actively monitored as part of ongoing restoration. Across water years, 2020-2025, surveys recorded 19 waterfowl species at the site. We addressed three questions. First, does precipitation affect waterfowl abundance at NCOS? Second, how does waterfowl abundance vary through time at NCOS? Third, are there seasonal patterns shared by waterfowl abundance? Third, are there seasonal patterns shared by waterfowl abundance and precipitation ? We tested whether the previous month’s precipitation predicted total monthly abundance, using a one-month lag to allow time for rainfall to translate into usable habitat. We predicted that higher precipitation in one month would be greater than the abundance of waterfowl for the next.
+Our research focuses on waterfowl abundance at North Campus Open Space, a restored coastal wetland at the University of California, Santa Barbara which provides habitat for many bird species, including waterfowl, and its water levels are actively monitored as part of ongoing restoration. Across water years 2020–2025, surveys recorded 19 waterfowl species at the site. We addressed three questions. First, does precipitation affect waterfowl abundance at NCOS? Second, how does waterfowl abundance vary through time at NCOS? Third, are there seasonal patterns shared by waterfowl abundance and precipitation at NCOS? We tested whether the previous month's precipitation predicted total monthly abundance, using a one-month lag to allow time for rainfall to translate into usable habitat. We predicted that higher precipitation in one month would correspond to greater waterfowl abundance in the following month.
 
 
 # Methods
 
-- description of temporal and spatial coverage of dataset
-- references to monitoring report or any other NCOS-related publications outlining data
-collection process
-- description of frequency of data collection
-- description of statistical analysis or otherwise descriptive statistics (should be linked to
-question)
+Our study site is North Campus Open Space. This is a restored coastal wetland and estuary that is part of UCSB. The Cheadle Center for Biodiversity and Ecological Restoration (CCEBER) restores and manages this ecosystem. The site provides freshwater wetland, open water and tidal slough habitat used by resident and migratory waterfowl. For our study, we focused on data from water years 2020 to 2025.
+
+Data used for bird abundance comes from CCEBER’s birds.csv dataset. Waterfowl abundance data came from monthly eBird surveys conducted at NCOS, with one survey per month across the study period. Species were classified by surveyors using the eBird taxonomic grouping and we retained only records in the waterfowl group. We flagged repeat observations to avoid double counting, and filtered for our time frame of 2020-2025. The surveys identified 19 unique waterfowl species. 
+
+The data used for precipitation values was obtained from NOAA_daily_summaries.csv. This data comes from the National Oceanic and Atmospheric Administration and has weather information for each day. This dataset was refined to only include data within our study period. Then, it was summarized to have the total precipitation value for each month, as the bird surveys are conducted monthly.
+
+We defined the water year as October 1 through September 30 and restricted both datasets to water years 2020-2025. Bird counts were summed by species and by month to produce monthly waterfowl abundance totals. We arranged all of our monthly data chronologically and paired each month’s total abundance with the precipitation total from the preceding month to create a one-month lagged precipitation variable. 
+
+Statistical analysis. We fit a linear regression with total monthly waterfowl abundance as the response and previous-month  precipitation as the prediction. All coding, analysis and figures were produced in Rstudio.
+
 
 # Results
 
